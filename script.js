@@ -20,7 +20,7 @@ var fruit = [
 
 var barWidth = 50;
 var startingY = 0;
-var barMulti = 15;
+var barMulti = 20;
 
 
 for (let i=0; i<fruit.length; i++) {
