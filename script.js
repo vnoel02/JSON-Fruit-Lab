@@ -10,10 +10,11 @@ var canvas = document.getElementById("canvas").getContext("2d");
 
 var fruit = [
     {name:"Apple", quantity:20, color:"red"},
-    {name: "Banana", quantity:15, color:"yellow"},
-    {name: "Orange", quantity: 13, color: "orange"},
-    {name: "Watermelon", quantity: 25, color: "green"},
-    {name: "Blueberry", quantity: 18, color: "#464196"}
+    {name: "Orange", quantity: 10, color: "orange"},
+    {name: "Banana", quantity: 15, color: "yellow"},
+    {name: "Kiwi", quantity: 5, color: "green"},
+    {name: "Blueberry", quantity: 5, color: "#464196"},
+    {name: "Grapes", quantity: 10, color: "purple"}
 ];
 
 
